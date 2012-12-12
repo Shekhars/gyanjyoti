@@ -1,0 +1,29 @@
+---------------- negative videos ------------------
+[threshold = 0.62]
+
+[ 1 / 18 ]	File : 38-Meter High Dive Goes Wrong.avi	score : 0.155807	color_score : 0.192903	spatio_score : 0.274519
+[ 2 / 41 ]	File : BAFTA Screenwriters' Lecture Series Introduction.avi	 EXCEPTION IN READING 
+[ 3 / 18 ]	File : December 21 2012 THE END.avi	score : 0.262856	color_score : 0.294549	spatio_score : 0.494018
+[ 4 / 18 ]	File : Drunk Monkeys.avi	score : 0.343104	color_score : 0.394090	spatio_score : 0.635221
+[ 5 / 18 ]	File : Funny Bloopers On Live TV.avi	score : 0.306208	color_score : 0.347696	spatio_score : 0.570927
+[ 6 / 18 ]	File : Global Warming 101.avi	score : 0.185578	color_score : 0.238338	spatio_score : 0.318395
+[ 7 / 18 ]	File : Great White Shark Accident.avi	score : 0.115506	color_score : 0.152755	spatio_score : 0.193762
+[ 8 / 18 ]	File : Lecture 14-1 Derivation of the FDTD Equations.avi	score : 0.464470	color_score : 0.485540	spatio_score : 0.907871
+[ 9 / 18 ]	File : Lecture 20-2 Unknowns with Method of Moments.avi	score : 0.427720	color_score : 0.463613	spatio_score : 0.819548
+[ 10 / 18 ]	File : National Geographic - Monkeys go crazy!.avi	score : 0.310460	color_score : 0.360691	spatio_score : 0.570688
+[ 11 / 18 ]	File : Ophthalmology Lecture Amblyopia.avi	score : 0.361569	color_score : 0.373956	spatio_score : 0.710750
+
+
+---------------- positive videos ------------------
+
+
+[ 1 / 10 ]	File : BBC News interviews the wrong 'Guy'.avi	score : 0.394249	color_score : 0.432839	spatio_score : 0.749907
+[ 2 / 10 ]	File : CNN BUSH UNITED NATIONS.avi	score : 0.445598	color_score : 0.467585	spatio_score : 0.869210
+[ 3 / 10 ]	File : CNN use footage of Tskhinvali ruins to cover Georgian report.avi	score : 0.328156	color_score : 0.375738	spatio_score : 0.608732
+[ 4 / 10 ]	File : Charles M. Schulz Death - CNN Headline News.avi	score : 0.336413	color_score : 0.365044	spatio_score : 0.644194
+[ 5 / 10 ]	File : Godzilla Lecture at Nerd Nite (Plus 789 News).avi	score : 0.474318	color_score : 0.480942	spatio_score : 0.942013
+[ 6 / 10 ]	File : How to Speak Lecture Tips from Patrick Winston.avi	score : 0.327966	color_score : 0.382979	spatio_score : 0.600918
+[ 7 / 10 ]	File : Lecture  Foamy The Squirrel.avi	score : 0.439882	color_score : 0.454435	spatio_score : 0.865212
+[ 8 / 10 ]	File : News Bulletin - 2035GMT update.avi	score : 0.267310	color_score : 0.321214	spatio_score : 0.480717
+[ 9 / 10 ]	File : Prankster calls CNN news anchor Ali Velshi a DUMB ASS during Live BLIZZARD ALERT.avi	score : 0.365688	color_score : 0.403103	spatio_score : 0.693961
+[ 10 / 10 ]	File : feynman qed lecture.avi	score : 0.463053	color_score : 0.486357	spatio_score : 0.902802

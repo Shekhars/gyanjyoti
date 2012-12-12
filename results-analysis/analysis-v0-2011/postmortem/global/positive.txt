@@ -1,0 +1,38 @@
+[ 1 / 38 ]	File : BBC News interviews the wrong 'Guy'.avi	score : 0.392740	color_score : 0.432839	spatio_score : 0.745382
+[ 2 / 38 ]	File : C.S. Lewis Lectures on the Novels of Charles Williams.avi	score : 0.439325	color_score : 0.442712	spatio_score : 0.875261
+[ 3 / 38 ]	File : CNN NEWS; 7.2 earthquake hits off coast of Japan.avi	score : 0.306148	color_score : 0.342997	spatio_score : 0.575447
+[ 4 / 38 ]	File : FBI Biometric Database Plan CNN News Report.avi	score : 0.329089	color_score : 0.374279	spatio_score : 0.612987
+[ 5 / 38 ]	File : FUNNY News Prank Calls.avi	score : 0.315799	color_score : 0.366665	spatio_score : 0.580731
+[ 6 / 38 ]	File : Godzilla Lecture at Nerd Nite (Plus 789 News).avi	score : 0.472066	color_score : 0.480942	spatio_score : 0.935256
+[ 7 / 38 ]	File : Hawking Lecture.avi	score : 0.392338	color_score : 0.416697	spatio_score : 0.760316
+[ 8 / 38 ]	File : How to Speak Lecture Tips from Patrick Winston.avi	score : 0.326408	color_score : 0.382979	spatio_score : 0.596245
+[ 9 / 38 ]	File : Lecture  Foamy The Squirrel.avi	score : 0.438394	color_score : 0.454435	spatio_score : 0.860748
+[ 10 / 38 ]	File : Mini-lecture 'Is science always good'.avi	score : 0.408404	color_score : 0.425520	spatio_score : 0.799692
+[ 11 / 38 ]	File : Mini-lecture Bentham's 'corpse and corpus'.avi	 EXCEPTION IN READING 
+[ 12 / 38 ]	File : Mini-lecture The science of microbubbles.avi	score : 0.428632	color_score : 0.440254	spatio_score : 0.845641
+[ 13 / 38 ]	File : Mini-lecture_ Chilean miners' psychological struggles (XVid MPEG-4 Codec).avi	score : 0.404620	color_score : 0.412380	spatio_score : 0.801479
+[ 14 / 38 ]	File : Mini-lecture_ Chilean miners' psychological struggles.avi	score : 0.406170	color_score : 0.413089	spatio_score : 0.805421
+[ 15 / 38 ]	File : Mini-lecture_ LGBT in Ancient Egypt.avi	 EXCEPTION IN READING 
+[ 16 / 38 ]	File : News Bulletin - 0035GMT update.avi	score : 0.290827	color_score : 0.337475	spatio_score : 0.535005
+[ 17 / 38 ]	File : News Bulletin - 0205 GMT update.avi	score : 0.248262	color_score : 0.311531	spatio_score : 0.433255
+[ 18 / 38 ]	File : News Bulletin - 0430GMT update.avi	score : 0.323329	color_score : 0.380523	spatio_score : 0.589464
+[ 19 / 38 ]	File : News Bulletin - 0435-1GMT update.avi	score : 0.313147	color_score : 0.365791	spatio_score : 0.573650
+[ 20 / 38 ]	File : News Bulletin - 0435-2GMT update.avi	score : 0.329131	color_score : 0.374113	spatio_score : 0.613280
+[ 21 / 38 ]	File : News Bulletin - 0435-3GMT update.avi	score : 0.291043	color_score : 0.351750	spatio_score : 0.521377
+[ 22 / 38 ]	File : News Bulletin - 0435-4GMT update.avi	score : 0.318929	color_score : 0.381241	spatio_score : 0.575545
+[ 23 / 38 ]	File : News Bulletin - 0435GMT update.avi	score : 0.313464	color_score : 0.377463	spatio_score : 0.562928
+[ 24 / 38 ]	File : News Bulletin - 04_35GMT update.avi	score : 0.236021	color_score : 0.287525	spatio_score : 0.420537
+[ 25 / 38 ]	File : News Bulletin - 1035-1GMT update.avi	score : 0.315247	color_score : 0.379845	spatio_score : 0.565896
+[ 26 / 38 ]	File : News Bulletin - 1035GMT update.avi	score : 0.266511	color_score : 0.321336	spatio_score : 0.478198
+[ 27 / 38 ]	File : News Bulletin - 1235GMT update.avi	score : 0.286778	color_score : 0.344140	spatio_score : 0.516195
+[ 28 / 38 ]	File : News Bulletin - 1400GMT update.avi	score : 0.286593	color_score : 0.337275	spatio_score : 0.522505
+[ 29 / 38 ]	File : News Bulletin - 1405GMT update.avi	score : 0.243593	color_score : 0.292857	spatio_score : 0.437921
+[ 30 / 38 ]	File : News Bulletin - 1435-1GMT update.avi	score : 0.228210	color_score : 0.294403	spatio_score : 0.390227
+[ 31 / 38 ]	File : News Bulletin - 1435GMT update.avi	score : 0.320510	color_score : 0.380821	spatio_score : 0.580710
+[ 32 / 38 ]	File : News Bulletin - 2035GMT update.avi	score : 0.265438	color_score : 0.321214	spatio_score : 0.475099
+[ 33 / 38 ]	File : News Bulletin - 20_30GMT update.avi	score : 0.262920	color_score : 0.299704	spatio_score : 0.489056
+[ 34 / 38 ]	File : Polly Toynbee_ Equality & wellbeing.avi	score : 0.394098	color_score : 0.402972	spatio_score : 0.779322
+[ 35 / 38 ]	File : SONIA BARRETT- Lecture at Conspiracy Con 2009-Behind your eyes.avi	score : 0.493716	color_score : 0.496099	spatio_score : 0.985049
+[ 36 / 38 ]	File : Tim Ferriss Guest Lecture at Princeton Q_A.avi	score : 0.370011	color_score : 0.423075	spatio_score : 0.686959
+[ 37 / 38 ]	File : When species meet - Excerpt of a lecture by Donna Haraway.avi	score : 0.389391	color_score : 0.404454	spatio_score : 0.763719
+[ 38 / 38 ]	File : feynman qed lecture.avi	score : 0.460754	color_score : 0.486357	spatio_score : 0.895906

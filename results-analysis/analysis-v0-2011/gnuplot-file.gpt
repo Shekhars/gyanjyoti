@@ -1,0 +1,14 @@
+set style data linesp
+set grid
+set xrange [0.0:1.0]
+
+set title "PR-Curve: different methods"
+set xlabel "Recall"
+set ylabel "Precision"
+plot "local-avg-color-spatio" using 2:3 title 'local-avg-color-spatio',"global-avg-color-spatio" using 2:3 title 'global-avg-color-spatio',"local-only-color" using 2:3 title'local-only-color',"global-only-color" using 2:3 title 'global-only-color',"local-only-spatio" using 2:3 title 'local-only-spatio',"global-only-spatio" using 2:3 title 'global-only-spatio',"lg-avg-color-ratio" using 2:3 title 'lg-avg-color-ratio',"lg-only-color" using 2:3 title 'lg-only-color',"lg-only-spatio" using 2:3 title 'lg-only-spatio'
+
+set terminal post eps color
+set output 'pr_curve.eps'
+replot
+set output '| epstopdf pr_curve.eps'
+replot

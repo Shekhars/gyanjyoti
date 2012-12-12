@@ -1,0 +1,18 @@
+[ 1 / 18 ]	File : 38-Meter High Dive Goes Wrong.avi	score : 0.593986	color_score : 0.912051	spatio_score : 0.869907
+[ 2 / 41 ]	File : BAFTA Screenwriters' Lecture Series Introduction.avi	 EXCEPTION IN READING 
+[ 3 / 18 ]	File : December 21 2012 THE END.avi	score : 0.635359	color_score : 0.963075	spatio_score : 0.943003
+[ 4 / 18 ]	File : Drunk Monkeys.avi	score : 0.610326	color_score : 0.945810	spatio_score : 0.885167
+[ 5 / 18 ]	File : Funny Bloopers On Live TV.avi	score : 0.646600	color_score : 0.980450	spatio_score : 0.959351
+[ 6 / 18 ]	File : Global Warming 101.avi	score : 0.585940	color_score : 0.906216	spatio_score : 0.851605
+[ 7 / 18 ]	File : Great White Shark Accident.avi	score : 0.472191	color_score : 0.795238	spatio_score : 0.621334
+[ 8 / 18 ]	File : Lecture 14-1 Derivation of the FDTD Equations.avi	score : 0.661249	color_score : 0.996544	spatio_score : 0.987202
+[ 9 / 18 ]	File : Lecture 20-2 Unknowns with Method of Moments.avi	score : 0.658979	color_score : 0.993848	spatio_score : 0.983089
+[ 10 / 18 ]	File : National Geographic - Monkeys go crazy!.avi	score : 0.622219	color_score : 0.953621	spatio_score : 0.913037
+[ 11 / 18 ]	File : Ophthalmology Lecture Amblyopia.avi	score : 0.660700	color_score : 0.992334	spatio_score : 0.989765
+[ 12 / 18 ]	File : Orca vs Great White Shark.avi	score : 0.596677	color_score : 0.920154	spatio_score : 0.869877
+[ 13 / 18 ]	File : Prehistoric shark, BREAKING NEWS.avi	score : 0.598065	color_score : 0.926742	spatio_score : 0.867454
+[ 14 / 18 ]	File : Susan Boyle Transformation.avi	score : 0.651516	color_score : 0.984253	spatio_score : 0.970295
+[ 15 / 18 ]	File : The Disclosure Project - CNN Headline News.avi	score : 0.620501	color_score : 0.944040	spatio_score : 0.917462
+[ 16 / 18 ]	File : Video - Breaking News Videos from CNN.com.avi	score : 0.646935	color_score : 0.980468	spatio_score : 0.960336
+[ 17 / 18 ]	File : Won't see this on National Geographic...lol.avi	score : 0.602638	color_score : 0.926083	spatio_score : 0.881831
+[ 18 / 18 ]	File : freaky clouds Breaking News Videos CNN.avi	score : 0.580155	color_score : 0.898288	spatio_score : 0.842178

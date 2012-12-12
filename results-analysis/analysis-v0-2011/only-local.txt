@@ -1,0 +1,68 @@
+>> runner (threshold = 0.62)
+
+----- negative ----
+
+[ 1 / 18 ]	File : 38-Meter High Dive Goes Wrong.avi	score : 0.593986	color_score : 0.912051	spatio_score : 0.869907
+[ 2 / 41 ]	File : BAFTA Screenwriters' Lecture Series Introduction.avi	 EXCEPTION IN READING 
+[ 3 / 18 ]	File : December 21 2012 THE END.avi	score : 0.635359	color_score : 0.963075	spatio_score : 0.943003
+[ 4 / 18 ]	File : Drunk Monkeys.avi	score : 0.610326	color_score : 0.945810	spatio_score : 0.885167
+[ 5 / 18 ]	File : Funny Bloopers On Live TV.avi	score : 0.646600	color_score : 0.980450	spatio_score : 0.959351
+[ 6 / 18 ]	File : Global Warming 101.avi	score : 0.585940	color_score : 0.906216	spatio_score : 0.851605
+[ 7 / 18 ]	File : Great White Shark Accident.avi	score : 0.472191	color_score : 0.795238	spatio_score : 0.621334
+[ 8 / 18 ]	File : Lecture 14-1 Derivation of the FDTD Equations.avi	score : 0.661249	color_score : 0.996544	spatio_score : 0.987202
+[ 9 / 18 ]	File : Lecture 20-2 Unknowns with Method of Moments.avi	score : 0.658979	color_score : 0.993848	spatio_score : 0.983089
+[ 10 / 18 ]	File : National Geographic - Monkeys go crazy!.avi	score : 0.622219	color_score : 0.953621	spatio_score : 0.913037
+[ 11 / 18 ]	File : Ophthalmology Lecture Amblyopia.avi	score : 0.660700	color_score : 0.992334	spatio_score : 0.989765
+[ 12 / 18 ]	File : Orca vs Great White Shark.avi	score : 0.596677	color_score : 0.920154	spatio_score : 0.869877
+[ 13 / 18 ]	File : Prehistoric shark, BREAKING NEWS.avi	score : 0.598065	color_score : 0.926742	spatio_score : 0.867454
+[ 14 / 18 ]	File : Susan Boyle Transformation.avi	score : 0.651516	color_score : 0.984253	spatio_score : 0.970295
+[ 15 / 18 ]	File : The Disclosure Project - CNN Headline News.avi	score : 0.620501	color_score : 0.944040	spatio_score : 0.917462
+[ 16 / 18 ]	File : Video - Breaking News Videos from CNN.com.avi	score : 0.646935	color_score : 0.980468	spatio_score : 0.960336
+[ 17 / 18 ]	File : Won't see this on National Geographic...lol.avi	score : 0.602638	color_score : 0.926083	spatio_score : 0.881831
+[ 18 / 18 ]	File : freaky clouds Breaking News Videos CNN.avi	score : 0.580155	color_score : 0.898288	spatio_score : 0.842178
+ 
+
+
+----- positive ----
+
+[ 1 / 41 ]	File : 'Last Lecture' Prof Dies.avi	score : 0.635645	color_score : 0.967253	spatio_score : 0.939683
+[ 2 / 41 ]	File : Afgan Bibi Aisha CNN news.avi	score : 0.633450	color_score : 0.966401	spatio_score : 0.933947
+[ 3 / 41 ]	File : Angela Stokes on CNN News Raw Food Weight Loss.avi	score : 0.624353	color_score : 0.954000	spatio_score : 0.919059
+[ 4 / 41 ]	File : BBC NEWS 20090216 Cashless Society.avi	score : 0.648913	color_score : 0.982477	spatio_score : 0.964262
+[ 5 / 41 ]	File : BBC News - China's famous Yellow River is fading.avi	score : 0.641237	color_score : 0.970529	spatio_score : 0.953183
+[ 6 / 41 ]	File : BBC News 24 error, interview job applicant (not taxi driver).avi	score : 0.650892	color_score : 0.985303	spatio_score : 0.967372
+[ 7 / 41 ]	File : BBC News Bees Dying.avi	score : 0.633807	color_score : 0.965922	spatio_score : 0.935499
+[ 8 / 41 ]	File : BBC News interviews the wrong 'Guy'.avi	score : 0.655891	color_score : 0.990479	spatio_score : 0.977194
+[ 9 / 41 ]	File : Bed Bugs.avi	score : 0.627575	color_score : 0.958871	spatio_score : 0.923854
+[ 10 / 41 ]	File : C.S. Lewis Lectures on the Novels of Charles Williams.avi	score : 0.664797	color_score : 0.997574	spatio_score : 0.996816
+[ 11 / 41 ]	File : CNN BREAKING NEWS - NASA SOLAR STORM WARNING.avi	score : 0.648532	color_score : 0.982587	spatio_score : 0.963008
+[ 12 / 41 ]	File : CNN BUSH UNITED NATIONS.avi	score : 0.660728	color_score : 0.996092	spatio_score : 0.986093
+[ 13 / 41 ]	File : CNN NEWS; 7.2 earthquake hits off coast of Japan.avi	score : 0.651694	color_score : 0.985181	spatio_score : 0.969901
+[ 14 / 41 ]	File : CNN News.avi	score : 0.628888	color_score : 0.960094	spatio_score : 0.926572
+[ 15 / 41 ]	File : CNN use footage of Tskhinvali ruins to cover Georgian report.avi	score : 0.637824	color_score : 0.971308	spatio_score : 0.942163
+[ 16 / 41 ]	File : Charles M. Schulz Death - CNN Headline News.avi	score : 0.645798	color_score : 0.976931	spatio_score : 0.960464
+[ 17 / 41 ]	File : Dragnet - The Obama Lecture.avi	score : 0.617283	color_score : 0.938100	spatio_score : 0.913749
+[ 18 / 41 ]	File : Dying Professor Gives Final, Farewell Lecture.avi	score : 0.634855	color_score : 0.965876	spatio_score : 0.938688
+[ 19 / 41 ]	File : FBI Biometric Database Plan CNN News Report.avi	score : 0.635176	color_score : 0.969477	spatio_score : 0.936050
+[ 20 / 41 ]	File : FUNNY News Prank Calls.avi	score : 0.654866	color_score : 0.988054	spatio_score : 0.976543
+[ 21 / 41 ]	File : Get the Grades You Want 2 - Lecture Survival.avi	score : 0.615206	color_score : 0.936989	spatio_score : 0.908630
+[ 22 / 41 ]	File : Glacsweb BBC news 21-11-2006.avi	score : 0.634052	color_score : 0.965722	spatio_score : 0.936435
+[ 23 / 41 ]	File : Godzilla Lecture at Nerd Nite (Plus 789 News).avi	score : 0.659594	color_score : 0.991995	spatio_score : 0.986788
+[ 24 / 41 ]	File : Hawking Lecture.avi	score : 0.659739	color_score : 0.992837	spatio_score : 0.986380
+[ 25 / 41 ]	File : How to Speak Lecture Tips from Patrick Winston.avi	score : 0.631909	color_score : 0.963525	spatio_score : 0.932202
+[ 26 / 41 ]	File : Lecture  Foamy The Squirrel.avi	score : 0.656505	color_score : 0.989176	spatio_score : 0.980339
+[ 27 / 41 ]	File : Loan Modification CNN News.avi	score : 0.631828	color_score : 0.965332	spatio_score : 0.930153
+[ 28 / 41 ]	File : Mini-lecture 'Is science always good'.avi	score : 0.656419	color_score : 0.988783	spatio_score : 0.980475
+[ 29 / 41 ]	File : Mini-lecture Bentham's 'corpse and corpus'.avi	 EXCEPTION IN READING 
+[ 30 / 41 ]	File : Mini-lecture The science of microbubbles.avi	score : 0.657179	color_score : 0.989613	spatio_score : 0.981925
+[ 31 / 41 ]	File : News Bulletin - 2035GMT update.avi	score : 0.633657	color_score : 0.968597	spatio_score : 0.932375
+[ 32 / 41 ]	File : News Bulletin - 2100 GMT update.avi	score : 0.627155	color_score : 0.958948	spatio_score : 0.922517
+[ 33 / 41 ]	File : Nutrition _ Behavior A Lecture By Russell Blaylock, MD.avi	 EXCEPTION IN READING 
+[ 34 / 41 ]	File : Prankster calls CNN news anchor Ali Velshi a DUMB ASS during Live BLIZZARD ALERT.avi	score : 0.635868	color_score : 0.965852	spatio_score : 0.941752
+[ 35 / 41 ]	File : SONIA BARRETT- Lecture at Conspiracy Con 2009-Behind your eyes.avi	score : 0.664644	color_score : 0.998499	spatio_score : 0.995434
+[ 36 / 41 ]	File : Tim Ferriss Guest Lecture at Princeton Q_A.avi	score : 0.659300	color_score : 0.996315	spatio_score : 0.981586
+[ 37 / 41 ]	File : Tomatis Therapy Davis Center CNN News.avi	score : 0.630382	color_score : 0.966186	spatio_score : 0.924960
+[ 38 / 41 ]	File : United Breaks Guitars - CNN Situation Room - Wolf Blitzer.avi	score : 0.650300	color_score : 0.982876	spatio_score : 0.968025
+[ 39 / 41 ]	File : When species meet - Excerpt of a lecture by Donna Haraway.avi	score : 0.653263	color_score : 0.986724	spatio_score : 0.973065
+[ 40 / 41 ]	File : feynman qed lecture.avi	score : 0.653905	color_score : 0.994920	spatio_score : 0.966796
+[ 41 / 41 ]	File : fred on cnn news.avi	score : 0.626148	color_score : 0.956195	spatio_score : 0.922248

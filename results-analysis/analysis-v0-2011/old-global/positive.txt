@@ -1,0 +1,10 @@
+[ 1 / 10 ]	File : BBC News interviews the wrong 'Guy'.avi	score : 0.394249	color_score : 0.432839	spatio_score : 0.749907
+[ 2 / 10 ]	File : CNN BUSH UNITED NATIONS.avi	score : 0.445598	color_score : 0.467585	spatio_score : 0.869210
+[ 3 / 10 ]	File : CNN use footage of Tskhinvali ruins to cover Georgian report.avi	score : 0.328156	color_score : 0.375738	spatio_score : 0.608732
+[ 4 / 10 ]	File : Charles M. Schulz Death - CNN Headline News.avi	score : 0.336413	color_score : 0.365044	spatio_score : 0.644194
+[ 5 / 10 ]	File : Godzilla Lecture at Nerd Nite (Plus 789 News).avi	score : 0.474318	color_score : 0.480942	spatio_score : 0.942013
+[ 6 / 10 ]	File : How to Speak Lecture Tips from Patrick Winston.avi	score : 0.327966	color_score : 0.382979	spatio_score : 0.600918
+[ 7 / 10 ]	File : Lecture  Foamy The Squirrel.avi	score : 0.439882	color_score : 0.454435	spatio_score : 0.865212
+[ 8 / 10 ]	File : News Bulletin - 2035GMT update.avi	score : 0.267310	color_score : 0.321214	spatio_score : 0.480717
+[ 9 / 10 ]	File : Prankster calls CNN news anchor Ali Velshi a DUMB ASS during Live BLIZZARD ALERT.avi	score : 0.365688	color_score : 0.403103	spatio_score : 0.693961
+[ 10 / 10 ]	File : feynman qed lecture.avi	score : 0.463053	color_score : 0.486357	spatio_score : 0.902802
